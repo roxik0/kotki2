@@ -21,6 +21,7 @@ namespace ExampleApp
         {
             MessageBox.Show("Git jest git","Komunikat",MessageBoxButtons.RetryCancel,MessageBoxIcon.Information);
             MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
+            MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
 
         }
 
