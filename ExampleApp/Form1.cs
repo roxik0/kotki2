@@ -19,12 +19,12 @@ namespace ExampleApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Git jest git");            
+            MessageBox.Show("Git jest git","Komunikat");            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Form loaded");
+          
         }
     }
 }
