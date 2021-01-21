@@ -19,7 +19,7 @@ namespace ExampleApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Git jest git","Komunikat",MessageBoxButtons.RetryCancel,MessageBoxIcon.Information);
+            MessageBox.Show("Git jest bardzo fajnym programem","Komunikat",MessageBoxButtons.RetryCancel,MessageBoxIcon.Information);
             MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
             MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
 
