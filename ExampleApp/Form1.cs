@@ -22,7 +22,7 @@ namespace ExampleApp
             MessageBox.Show("Git jest bardzo fajnym programem","Komunikat",MessageBoxButtons.RetryCancel,MessageBoxIcon.Information);
             MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
             MessageBox.Show("Rozwiązywanie konfliktów jest proste.", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
-
+			//ostatni raz?
         }
 
         private void Form1_Load(object sender, EventArgs e)
