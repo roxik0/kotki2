@@ -29,7 +29,9 @@ namespace ExampleApp
         {
           //Ale fajnie
             MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
-
+            //Fajny styl
+            //nowa linia
+            //Covid not rulez
         }
     }
 }
