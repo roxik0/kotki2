@@ -26,7 +26,8 @@ namespace ExampleApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-          
+            MessageBox.Show("Git jest git", "Komunikat", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
+
         }
     }
 }
